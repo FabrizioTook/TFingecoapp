@@ -1,0 +1,2 @@
+D:/zUPC 2025-01/Ingeco/Fronted TF/finanzas-frontend/android/app/.cxx/Debug/6k1n6y6c/x86_64/CMakeFiles/edit_cache.dir
+D:/zUPC 2025-01/Ingeco/Fronted TF/finanzas-frontend/android/app/.cxx/Debug/6k1n6y6c/x86_64/CMakeFiles/rebuild_cache.dir
