@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 import 'api_result.dart';
 
 class ApiService {
-  static const String baseUrl = "https://bonos-finanzas.vercel.app/api";
+  static const String baseUrl = "https://tfingecoappbackend.vercel.app/api";
 
   static Future<ApiResult<dynamic>> get(String endpoint,
       {Map<String, dynamic>? queryParameters}) async {
